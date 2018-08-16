@@ -72,7 +72,7 @@ these exercises during lecture:
   the class to present their solution.
 
 **Students _must_ push their final solution to the exercises to their private repo 
-  by 5:00 PM on the day of the lecture**
+  no later than 24 hours after the end of lecture**
 
 The teaching staff will grade selected exercises and check for completeness.  Since 
 the correct solution is presented in class, these are almost free points.  Please 
@@ -80,26 +80,30 @@ complete the exercises!
 
 ## Homework
 
-Homework will be made available on Monday and is due the following Sunday 
-at 11:59 PM.  Some assignments may be more involved than others.  In 
-such cases, the homework will be due the following Sunday (still at 11:59 PM).
+There are 6 homework assignments.  The homework will be released on Thursday after lecture. 
+The assignments are due at **11:59 PM** two weeks after they are released.  Exceptions to 
+this policy will be announced in class and can be seen on the course schedule.
 
 * Homework is worth 20% of your final grade.  
 * Your private GitHub repo should contain a `homeworks` directory with 
   subdirectories for each homework assignment.
 * Name the assignment that you want us to grade `HWn-final` where `n` is the 
   assignment number. **We will only grade appropriately-labeled assignments!**
-* New homework will be assigned on Monday and due on Sunday night at **11:59 PM**.
+* New homework will be assigned on Thursday after lecture and are due on Thursday 
+  night at **11:59 PM** two weeks after their initial assignment.
 * All assignments will involve programming.  
 * Not all problems will be graded, but you should still do each problem 
   since you don't know which problems will be graded ahead of time.
 
 **Homework Feedback:**
 
-The teaching staff will provide feedback on your homework.  You will receive a 
+The teaching staff will provide feedback on your homework.
+
+<!--You will receive a 
 pull request from the staff member who grades your assignment.  Once you approve 
 and merge the pull request, you will be able to see your grade and associated 
 comments.
+-->
 
 **Homework rules:**
 
@@ -112,12 +116,12 @@ comments.
 **Late Policy**
 
 Two points will be deducted per day for late homework.  Homework will not be 
-accepted after Wednesday.  
+accepted after Sunday.  
 
 Please contact me as soon as possible in the case of an unforeseen emergency or 
 illness so we can figure out an approprate plan of action on a case by case basis.
 
-The lowest homework grade will be dropped.
+<!-- The lowest homework grade will be dropped. -->
 
 ## A Note on Groups
 
