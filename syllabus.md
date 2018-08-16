@@ -64,7 +64,7 @@ resources.
 Refer to the [Coursework Page](coursework.md) for specific details on the grading scheme for the homeworks and 
 groupwork policies.
 
-The [Project Page](project.md) has a breakdown of the project.
+The [Project Page](project.md) has a breakdown of the project components and deliverables.
 
 **Course Grade Breakdown**
 * Homework:  20%
