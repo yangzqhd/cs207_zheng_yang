@@ -82,7 +82,7 @@ complete the exercises!
 
 There are 6 homework assignments.  The homework will be released on Thursday after lecture. 
 The assignments are due at **11:59 PM** two weeks after they are released.  Exceptions to 
-this policy will be announced in class and can be seen on the course schedule.
+this policy will be announced in class and can be seen on the [Course Schedule](schedule.md).
 
 * Homework is worth 20% of your final grade.  
 * Your private GitHub repo should contain a `homeworks` directory with 
