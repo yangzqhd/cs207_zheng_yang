@@ -47,23 +47,23 @@ After successful completion of this course, you will be able to:
 * *Email*:  <dsondak@seas.harvard.edu>
 * *Office*:  Maxwell-Dworkin, G111  
 * *Office Hours*:  
-  * Friday: 11:30 AM - 1:00 PM  
-  * Tuesday: 1:30 PM - 2:30 PM
+  *  
+  * 
 
 **TFs:**
 
-|               | **Charles Liu**                    | **Eric Wu**                        | **Kevin Wu**                       |
+|               | **Bernard Kleynhans**              | **Timothy Lee**                    | **Shiyun Qiu**                     |
 | :---:         | :---:                              | :---:                              | :---:                              |
-| *Email*       | <cliu02@g.harvard.edu>             | <eric_wu@g.harvard.edu>            | <kevin_wu@g.harvard.edu>           |
+| *Email*       | <bernardkleynhans@g.harvard.edu>   | <lee709@g.harvard.edu>             | <shiyunqiu@g.harvard.edu>           |
 | *Office*      | Maxwell-Dworkin (1st floor tables) | Maxwell-Dworkin (1st floor tables) | Maxwell-Dworkin (1st floor tables) |
 | *Office Hours*| TBD <br> TBD                       | TBD <br> TBD                       | TBD <br> TBD                       |
 
 
 ## Meeting Times
 
-**Lecture Days:**  Monday, Wednesday
+**Lecture Days:**  Tuesday, Thursday
 
-**Lecture Time:**  11:30 AM - 1:00 PM
+**Lecture Time:**  12:00 PM - 1:15 PM
 
 **Room \#:**  Pierce 301
 
@@ -71,14 +71,14 @@ After successful completion of this course, you will be able to:
 
 ## Course Websites
 
-* Course GitHub Repo: <https://github.com/IACS-CS-207/cs207-F17/> 
+* Course GitHub Repo: <https://github.com/IACS-CS-207/cs207-F18/> 
   * You should clone this repo and update it before each class.
 * Your *private* GitHub Repo: `githubusername/cs207work`
   * Should contain a HW directory and a labs directory
-* Canvas: <https://canvas.harvard.edu/courses/30141>
+* Canvas: <https://canvas.harvard.edu/courses/42484>
   * Used for course discussions and 
   * storing your course grade 
-* Main course website:  <https://iacs-cs-207.github.io/cs207-F17/>
+* Main course website:  <https://iacs-cs-207.github.io/cs207-F18/>
 
 
 
