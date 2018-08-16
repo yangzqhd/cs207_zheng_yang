@@ -3,6 +3,9 @@ title: Project
 layout: default
 ---
 
+Details coming soon!
+
+<!--
 ## Due Date ##
 
 The due date is Monday, December 11th 2017 at 9:00 AM.  We will have group 
@@ -82,3 +85,4 @@ components of the project:
   * Library:  70%
 
 Exact details on how each component will be graded are forthcoming.
+-->
