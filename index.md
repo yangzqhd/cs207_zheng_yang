@@ -71,6 +71,7 @@ After successful completion of this course, you will be able to:
 
 ## Course Websites
 
+* Piazza: <https://piazza.com/harvard/fall2018/cs207/home>
 * Course GitHub Repo: <https://github.com/IACS-CS-207/cs207-F18/> 
   * You should clone this repo and update it before each class.
 * Your *private* GitHub Repo: `githubusername/cs207work`
