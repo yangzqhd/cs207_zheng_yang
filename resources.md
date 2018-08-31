@@ -21,6 +21,7 @@ Publisher: O'Reilly Media 2014
   [http://composingprograms.com/](http://composingprograms.com/)
 - High Performance Python: By Micha Gorelick, Ian Ozsvald. Oreilly Media 2014.
 - Hacker guide to Python [https://thehackerguidetopython.com](https://thehackerguidetopython.com)
+- Evaluating Derivatives: Principles and Techniques of Algorithmic Differentiation by Andreas Griewank
 
 
 ## Papers and other readings
@@ -42,3 +43,7 @@ Publisher: O'Reilly Media 2014
 
 * [python](https://www.python.org/about/gettingstarted/)
 * [anaconda](https://www.continuum.io/anaconda-overview)
+
+## Automatic Differentiation
+
+* [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/optimization-2/)
