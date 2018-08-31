@@ -75,6 +75,7 @@ After successful completion of this course, you will be able to:
 * Course GitHub Repo: <https://github.com/IACS-CS-207/cs207-F18/> 
   * You should clone this repo and update it before each class.
 * Your *private* GitHub Repo: `githubusername/cs207_<firstname>_<lastname>`
+  * Please use all lowercase letters!
   * Should contain a HW directory and a labs directory
 * Canvas: <https://canvas.harvard.edu/courses/42484>
   * Used for course discussions and 
