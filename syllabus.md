@@ -67,10 +67,14 @@ groupwork policies.
 The [Project Page](project.md) has a breakdown of the project components and deliverables.
 
 **Course Grade Breakdown**
-* Homework:  20%
-* In-class Programming Exercises:  20%
-* Class participation:  10%
+* Homework:  40%
+* Participation:  10%
 * Project: 50%
+
+#### Participation
+* Class exercises, both interacting with your group and presenting results to the class
+* Piazza posts, both asking and answering questions
+* Engaging in class discussions
 
 **Code**
 We expect you to write high-quality and readable, tested Python code. You should strive for doing things the 
