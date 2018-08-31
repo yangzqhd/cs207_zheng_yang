@@ -47,16 +47,16 @@ After successful completion of this course, you will be able to:
 * *Email*:  <dsondak@seas.harvard.edu>
 * *Office*:  Maxwell-Dworkin, G111  
 * *Office Hours*:  
-  *  
-  * 
+  * Tuesdays, 2 PM - 3 PM, MD G111 
+   
 
 **TFs:**
 
 |               | **Bernard Kleynhans**              | **Timothy Lee**                    | **Shiyun Qiu**                     |
 | :---:         | :---:                              | :---:                              | :---:                              |
-| *Email*       | <bernardkleynhans@g.harvard.edu>   | <lee709@g.harvard.edu>             | <shiyunqiu@g.harvard.edu>           |
-| *Office*      | Maxwell-Dworkin (1st floor tables) | Maxwell-Dworkin (1st floor tables) | Maxwell-Dworkin (1st floor tables) |
-| *Office Hours*| TBD <br> TBD                       | TBD <br> TBD                       | TBD <br> TBD                       |
+| *Email*       | <bernardkleynhans@g.harvard.edu>   | <lee709@g.harvard.edu>             | <shiyunqiu@g.harvard.edu>          |
+| *Office*      | IACS Lounge                        | IACS Lounge                        | IACS Lounge                        |
+| *Office Hours*| Mondays <br> 11 AM - 12 PM         | Thursdays <br> 4 PM - 5 PM         | Wednesdays <br> 10 AM - 11 AM      |
 
 
 ## Meeting Times
@@ -74,7 +74,7 @@ After successful completion of this course, you will be able to:
 * Piazza: <https://piazza.com/harvard/fall2018/cs207/home>
 * Course GitHub Repo: <https://github.com/IACS-CS-207/cs207-F18/> 
   * You should clone this repo and update it before each class.
-* Your *private* GitHub Repo: `githubusername/cs207work`
+* Your *private* GitHub Repo: `githubusername/cs207_<firstname>_<lastname>`
   * Should contain a HW directory and a labs directory
 * Canvas: <https://canvas.harvard.edu/courses/42484>
   * Used for course discussions and 
