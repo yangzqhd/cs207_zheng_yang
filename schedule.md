@@ -15,10 +15,10 @@ layout: default
 | 8     | 10/23 (Tue)<br> 10/25 (Thurs) | 15 <br> 16                                                           | Datastructures <br> Datastructures                   | DLS <br> DLS    |                                    | 
 | 9     | 10/30 (Tue)<br> 11/1 (Thurs)  | 17 <br> 18                                                           | Datastructures <br> Datastructures                   | DLS <br> DLS    |  <br> HW4 Due, HW5 Released        | 
 | 10    | 11/6 (Tue)<br> 11/8  (Thurs)  | 19 <br> 20                                                           | Databases <br> Databases                             | DLS <br> DLS    |                                    | 
-| 11    | 11/13 (Tue)<br> 11/15 (Thurs) | 21 <br> 22                                                           | Databases <br> Databases                             | DLS <br> GUEST  |  <br> HW5 Due, HW6 Released        | 
-| 12    | 11/20 (Tue)<br> 11/22 (Thurs) | 23 <br> **No Class:  Thanksgiving**                                  | Special Topic <br> <br>                              | GUEST <br> NONE |                                    | 
+| 11    | 11/13 (Tue)<br> 11/15 (Thurs) | 21 <br> 22                                                           | Databases <br> Project                               | DLS <br> DLS    |  <br> HW5 Due, HW6 Released        | 
+| 12    | 11/20 (Tue)<br> 11/22 (Thurs) | 23 <br> **No Class:  Thanksgiving**                                  | Special Topic <br> <br>                              | GUEST <br>      |                                    | 
 | 13    | 11/27 (Tue)<br> 11/29 (Thurs) | 24 <br> 25                                                           | Project <br> Project                                 | DLS <br> DLS    |  <br> HW6 Due                      | 
-| 14    | 12/4 (Tue)<br> 12/6  (Thurs)  | 26 <br> **No Class: Reading Period**                                 | Project <br> <br>                                    | DLS <br> DLS    |                                    | 
-| 15    | 12/11 (Tue)<br> 12/13 (Thurs) | Final Presentations <br> **No Class:  Final Exam Period**            |                                                      | DLS <br> DLS    |                                    | 
-| 16    | 12/18 (Tue)<br> 12/20 (Thurs) | **No Class:  Final Exam Period** <br> **No Class: Final Exam Period**|                                                      | DLS <br> DLS    |                                    | 
+| 14    | 12/4 (Tue)<br> 12/6  (Thurs)  | 26 <br> **No Class: Reading Period**                                 | Databases Guest Lecture <br> <br>                    | Niv <br>        |                                    | 
+| 15    | 12/11 (Tue)<br> 12/13 (Thurs) | Final Presentations <br> **No Class:  Final Exam Period**            |                                                      |     <br>        |                                    | 
+| 16    | 12/18 (Tue)<br> 12/20 (Thurs) | **No Class:  Final Exam Period** <br> **No Class: Final Exam Period**|                                                      |     <br>        |                                    | 
 
