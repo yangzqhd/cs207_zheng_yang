@@ -13,8 +13,9 @@ found below.  All course work will be hosted on your private GitHub repo.
 ## Course Workflow
 
 All of your work (except for the class project) will be hosted on your private 
-GitHub repo named `githubusername/cs207work`.  This repo will be a clone of the 
-main course repo.  We will discuss how to set this up in the first lecture or two.  
+GitHub repo named `githubusername/cs207_<firstname>_<lastname>`. (Please use all 
+lowercase letters!)  This repo will be a clone of the main course repo.  We will 
+discuss how to set this up in the first lecture or two.  
 
 It is critical that you set up a private repo (free for students) and give the 
 teaching staff access.  There are two reasons for keeping this repo private.  One 
@@ -36,7 +37,7 @@ The group is free to make other repos within the organization for experiments, b
 
 ## Grading Scale 
 
-Homework, lecture exercises and the final project will be graded on a 10 point scale: 
+Homework will be graded on a 10 point scale: 
 
 * 10 = Solid / no mistakes (or really minor ones)
 * 8 = Good / some mistakes
@@ -53,7 +54,7 @@ when class begins.
 
 * Lectures are held two times per week.
 * Each lecture is 1.5 hours long.  
-* A small portion of the lecture will involve me actually lecturing.  
+* A small portion of the lecture will involve actual lecturing.  
 * The rest of the time, students will be in small groups (~3 students) working on 
   programming exercises of increasing difficulty related to the topic of the day.
 
@@ -80,11 +81,11 @@ complete the exercises!
 
 ## Homework
 
-There are 6 homework assignments.  The homework will be released on Thursday after lecture. 
+There are 7 homework assignments.  The homework will be released on Thursday after lecture. 
 The assignments are due at **11:59 PM** two weeks after they are released.  Exceptions to 
 this policy will be announced in class and can be seen on the [Course Schedule](schedule.md).
 
-* Homework is worth 20% of your final grade.  
+* Homework is worth 40% of your final grade.  
 * Your private GitHub repo should contain a `homeworks` directory with 
   subdirectories for each homework assignment.
 * Name the assignment that you want us to grade `HWn-final` where `n` is the 
@@ -97,13 +98,7 @@ this policy will be announced in class and can be seen on the [Course Schedule](
 
 **Homework Feedback:**
 
-The teaching staff will provide feedback on your homework.
-
-<!--You will receive a 
-pull request from the staff member who grades your assignment.  Once you approve 
-and merge the pull request, you will be able to see your grade and associated 
-comments.
--->
+The teaching staff will provide feedback on your homework through Canvas.
 
 **Homework rules:**
 
@@ -116,12 +111,11 @@ comments.
 **Late Policy**
 
 Two points will be deducted per day for late homework.  Homework will not be 
-accepted after Sunday.  
+accepted that is more than 2 days late.  For example, homework due on Thursday 
+at 11:59 PM will no longer be accepted after Saturday at 11:59 PM.
 
 Please contact me as soon as possible in the case of an unforeseen emergency or 
 illness so we can figure out an approprate plan of action on a case by case basis.
-
-<!-- The lowest homework grade will be dropped. -->
 
 ## A Note on Groups
 
