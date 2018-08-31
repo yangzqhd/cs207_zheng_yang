@@ -121,6 +121,7 @@ The final project is worth 50% of your course grade. Here is a breakdown of the 
   - Packaging and Installation
   - Test suite
   - Documentation
+  - Proposal for additional features and extensions
 * Final deliverables (12/12 9:00 AM): 25%
   - Forward mode complete
     - Specifics will be provided at a later date
