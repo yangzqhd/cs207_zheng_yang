@@ -97,7 +97,7 @@ You are welcome to discuss the course's material and homework with others in ord
 but the work you turn in must be your own unless collaboration is explicitly allowed. You may not submit the 
 same or similar work to this course that you have submitted or will submit to another. You must acknowledge 
 any source code that was not written by you by mentioning the original author(s) directly in your source code 
-(comment or header). You can also acknowledge sources in a README.txt file if you used whole classes or libraries. 
+(comment or header). You can also acknowledge sources in a `README.txt` file if you used whole classes or libraries. 
 Do not remove any original copyright notices and headers. For more information please consult the Harvard academic 
 integrity guidelines: 
 [Academic Integrity and Academic Dishonesty](https://handbook.fas.harvard.edu/book/academic-integrity#two). All 
@@ -117,3 +117,26 @@ a variety of accommodations and services to students with documented disabilitie
 for more information.
 
 <!--_Adapted from text created by Rahul Dave_-->
+
+## Diversity and Inclusion Statement
+Software development, like many fields of science, has historically only been represented by a small
+sliver of the population.  This is despite some of the early software pioneers being women (see 
+[Ada Lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace) and [Grace
+Hopper](https://en.wikipedia.org/wiki/Grace_Hopper) for two examples).  Recent initiatives have attempted to overcome some
+barriers to entry: [Made w/ Code](https://www.madewithcode.com/).  I would like to attempt to discuss diversity in software
+engineering from time to time where appropriate and possible.
+
+Please contact me (in person or electronically) or submit anonymous feedback if you have any suggestions to improve the quality of the course
+materials.
+
+Furthermore, I would like to create a learning environment for my students that supports a diversity of thoughts, perspectives and experiences, and
+honors your identities (including race, gender, class, sexuality, religion, ability, etc.) To help accomplish this:
+
+- If you have a name and/or set of pronouns that differ from those that appear in your official Harvard records, please let me know!
+- If you feel like your performance in the class is being impacted by your experiences outside of class, please don’t hesitate to come and talk with
+  me. I want to be a resource for you. Remember that you can also submit anonymous feedback (which will lead to me making a general announcement  to
+the class, if necessary to address your concerns). If you prefer to speak with someone outside of the course, you may find helpful resources at the
+[Harvard Office of Diversity and Inclusion](https://diversity.college.harvard.edu/).
+- I (like many people) am still in the process of learning about diverse perspectives and identities. If something was said in class (by anyone) that
+made you feel uncomfortable, please talk to me about it. (Again, anonymous feedback is always an option.)
+- As a participant in course discussions, you should also strive to honor the diversity of your classmates.
