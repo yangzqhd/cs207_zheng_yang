@@ -1,4 +1,4 @@
-# CS207 Course Repository
+# cs207 course repository for Zheng Yang
 
 This is the Fall 2018 CS207 course repo.
 
