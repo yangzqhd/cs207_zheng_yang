@@ -1,9 +1,9 @@
 class myproj(object):
-    def __init__(self, a, b):
+    def __init__(self, real, imaginary):
         """
 
-        :param a: real part
-        :param b: conjugate part
+        :param real: real part
+        :param imaginary: imaginary part
         """
-        self.a = a
-        self.b = b
+        self.real = real
+        self.imaginary = imaginary

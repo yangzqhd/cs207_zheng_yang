@@ -3,39 +3,39 @@ class Myproj(object):
     def __add__(self, other):
         """
 
-        :param: teo complex numbers
-        :return: float, add real part of two complex numbers
+        :param: two complex number objects
+        :return: summation of two complex numbers objects
         """
-        return self.a + other.a
+        return self.__init__(self.real + other.real, self.imaginary + other.imaginary)
 
     def __radd__(self, other):
         """
 
-        :param: teo complex numbers
-        :return: float, add conjugate part of two complex numbers
+        :param: teo complex numbers objects
+        :return: summation of two complex numbers object
         """
-        return self.b + other.b
+        return self.__init__(self.real + other.real, self.imaginary + other.imaginary)
 
     def complex_conj(self):
         """
 
-        input: complex number
-        :return: conjugate part of a complex number
+        input: complex number objects
+        :return: complex conjugate of a complex number object
         """
-        return self.b
+        return self.__init__(self.real, 0-self.imaginary)
 
     def magnitude(self):
         """
 
-        input: complex number
-        :return: conjugate part of a complex number
+        input: complex number objects
+        :return: magnitude of a complex number object
         """
-        return np.sqrt(self.a**2 + self.b**2)
+        return np.sqrt(self.imaginary**2 + self.real**2)
 
     def angle(self):
         """
 
-        input: complex number
-        :return: conjugate part of a complex number
+        input: complex number object
+        :return: angle of a complex number object
         """
-        return np.arctan(self.a/self.b)
+        return np.arctan(self.imaginary/self.real)
