@@ -1,0 +1,17 @@
+{
+    "catShelter": "MSPCA-Angell",
+    "cats": [
+        {
+            "name": "C1",
+            "age": 3,
+            "breed": "A",
+            "attendPlaygroup": "Yes"
+        },
+        {
+            "name": "C2",
+            "age": 7,
+            "breed": "B",
+            "attendPlaygroup": "Yes"
+        }
+    ]
+}
